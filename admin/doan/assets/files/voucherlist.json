@@ -1,0 +1,46 @@
+{
+    "data":
+    [    
+        {
+            "Voucher_ID": 1,
+            "VoucherName": "Happy new year 2025",
+            "Expire": "02/01/2025",
+            "DateCreated": "01/01/2024",
+            "ValueVoucher": 100000,
+            "Quantity": 20
+        },
+        {
+            "Voucher_ID": 2,
+            "VoucherName": "Sale 4/4",
+            "Expire": "05/04/2024",
+            "DateCreated": "01/01/2024",
+            "ValueVoucher": 50000,
+            "Quantity": 100 
+        },
+        {
+            "Voucher_ID": 3,
+            "VoucherName": "Sale 5/5",
+            "Expire": "06/05/2024",
+            "DateCreated": "01/01/2024",
+            "ValueVoucher": 80000,
+            "Quantity": 100   
+        },
+        {
+            "Voucher_ID": 4,
+            "VoucherName": "Happy birthday Shop Cake",
+            "Expire": "23/11/2024",
+            "DateCreated": "01/01/2024",
+            "ValueVoucher": 100000,
+            "Quantity": 10    
+        },
+        {
+            "Voucher_ID": 5,
+            "VoucherName": "Sale 6/6",
+            "Expire": "07/06/2024",
+            "DateCreated": "01/01/2024",
+            "ValueVoucher": 30000,
+            "Quantity": 100    
+        }
+
+    ]
+}

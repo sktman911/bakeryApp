@@ -1,0 +1,93 @@
+{
+    "data":
+    [
+        {
+            "CustomerID": 1,
+            "CustomerName": "hiep 1",
+            "CustomerPhone": "0987456321",
+            "CustomerAddress": "Phu Nhuan",
+            "CustomerUserName": "hiep1",
+            "CustomerPasswork": "123",
+            "CustomerPoint": 123,
+            "CustomerIsActive": "1",
+            "RoleID": 1
+        },
+        {
+            "CustomerID": 2,
+            "CustomerName": "hiep 2",
+            "CustomerPhone": "0987456321",
+            "CustomerAddress": "Phu Nhuan",
+            "CustomerUserName": "hiep2",
+            "CustomerPasswork": "123",
+            "CustomerPoint": 123,
+            "CustomerIsActive": "1",
+            "RoleID": 1
+        },
+        {
+            "CustomerID": 3,
+            "CustomerName": "hiep 3",
+            "CustomerPhone": "0987456321",
+            "CustomerAddress": "Phu Nhuan",
+            "CustomerUserName": "hiep3",
+            "CustomerPasswork": "123",
+            "CustomerPoint": 123,
+            "CustomerIsActive": "1",
+            "RoleID": 1
+        },
+        {
+            "CustomerID": 4,
+            "CustomerName": "hiep 4",
+            "CustomerPhone": "0987456321",
+            "CustomerAddress": "Phu Nhuan",
+            "CustomerUserName": "hiep4",
+            "CustomerPasswork": "123",
+            "CustomerPoint": 123,
+            "CustomerIsActive": "1",
+            "RoleID": 1
+        },
+        {
+            "CustomerID": 5,
+            "CustomerName": "hiep 5",
+            "CustomerPhone": "0987456321",
+            "CustomerAddress": "Phu Nhuan",
+            "CustomerUserName": "hiep5",
+            "CustomerPasswork": "123",
+            "CustomerPoint": 123,
+            "CustomerIsActive": "1",
+            "RoleID": 1
+        },
+        {
+            "CustomerID": 6,
+            "CustomerName": "hiep 6",
+            "CustomerPhone": "0987456321",
+            "CustomerAddress": "Phu Nhuan",
+            "CustomerUserName": "hiep6",
+            "CustomerPasswork": "123",
+            "CustomerPoint": 123,
+            "CustomerIsActive": "1",
+            "RoleID": 1
+        },
+        {
+            "CustomerID": 7,
+            "CustomerName": "hiep 7",
+            "CustomerPhone": "0987456321",
+            "CustomerAddress": "Phu Nhuan",
+            "CustomerUserName": "hiep7",
+            "CustomerPasswork": "123",
+            "CustomerPoint": 123,
+            "CustomerIsActive": "1",
+            "RoleID": 1
+        },
+        {
+            "CustomerID": 8,
+            "CustomerName": "hiep 8",
+            "CustomerPhone": "0987456321",
+            "CustomerAddress": "Phu Nhuan",
+            "CustomerUserName": "hiep8",
+            "CustomerPasswork": "123",
+            "CustomerPoint": 123,
+            "CustomerIsActive": "1",
+            "RoleID": 1
+        }
+    ]
+}

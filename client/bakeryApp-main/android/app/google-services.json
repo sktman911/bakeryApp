@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "428063678486",
+    "project_id": "cake-2302",
+    "storage_bucket": "cake-2302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428063678486:android:a3ce97841474c3867ad537",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428063678486-lfohgdbiog96hehqmio6ecckusmo89ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqnxUt-ncRtAbgucLqDO1EbZweNZ5AjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428063678486-lfohgdbiog96hehqmio6ecckusmo89ob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428063678486-36i147dcrgdl6602kd754kpuq5o9un9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428063678486:android:b972348882f038387ad537",
+        "android_client_info": {
+          "package_name": "com.example.doan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428063678486-lfohgdbiog96hehqmio6ecckusmo89ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqnxUt-ncRtAbgucLqDO1EbZweNZ5AjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428063678486-lfohgdbiog96hehqmio6ecckusmo89ob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428063678486-36i147dcrgdl6602kd754kpuq5o9un9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428063678486:android:9c63faaebae5528a7ad537",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428063678486-lfohgdbiog96hehqmio6ecckusmo89ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqnxUt-ncRtAbgucLqDO1EbZweNZ5AjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428063678486-lfohgdbiog96hehqmio6ecckusmo89ob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428063678486-36i147dcrgdl6602kd754kpuq5o9un9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428063678486:android:73cf56b76c2d28fe7ad537",
+        "android_client_info": {
+          "package_name": "com.oni.cake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428063678486-lfohgdbiog96hehqmio6ecckusmo89ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqnxUt-ncRtAbgucLqDO1EbZweNZ5AjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428063678486-lfohgdbiog96hehqmio6ecckusmo89ob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428063678486-36i147dcrgdl6602kd754kpuq5o9un9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,97 @@
+{
+    "data":
+    [    
+        {
+            "Product_ID": 1,
+            "ProductName": "Birthday cake 1",
+            "Price": 2100000,
+            "Image": "cake_1.jpg",
+            "Discount": 0,
+            "Quantity": 100,
+            "Category_ID": 2      
+        },
+        {
+            "Product_ID": 2,
+            "ProductName": "Birthday cake 2",
+            "Price": 2100000,
+            "Image": "cake_1.jpg",
+            "Discount": 0,
+            "Quantity": 200,
+            "Category_ID": 1      
+        },
+        {
+            "Product_ID": 3,
+            "ProductName": "Birthday cake 3",
+            "Price": 2100000,
+            "Image": "cake_1.jpg",
+            "Discount": 0,
+            "Quantity": 100,
+            "Category_ID": 2      
+        },
+        {
+            "Product_ID": 4,
+            "ProductName": "Birthday cake 4",
+            "Price": 2100000,
+            "Image": "cake_1.jpg",
+            "Discount": 0,
+            "Quantity": 100,
+            "Category_ID": 2      
+        },
+        {
+            "Product_ID": 5,
+            "ProductName": "Birthday cake 5",
+            "Price": 2100000,
+            "Image": "cake_1.jpg",
+            "Discount": 0,
+            "Quantity": 500,
+            "Category_ID": 2      
+        },
+        {
+            "Product_ID": 6,
+            "ProductName": "Birthday cake 6",
+            "Price": 2100000,
+            "Image": "cake_1.jpg",
+            "Discount": 0,
+            "Quantity": 100,
+            "Category_ID": 1      
+        },
+        {
+            "Product_ID": 7,
+            "ProductName": "Birthday cake 7",
+            "Price": 2100000,
+            "Image": "cake_1.jpg",
+            "Discount": 12000,
+            "Quantity": 100,
+            "Category_ID": 1      
+        },
+        {
+            "Product_ID": 8,
+            "ProductName": "Birthday cake 8",
+            "Price": 2100000,
+            "Image": "cake_1.jpg",
+            "Discount": 20000,
+            "Quantity": 100,
+            "Category_ID": 2      
+        },
+        {
+            "Product_ID": 9,
+            "ProductName": "Birthday cake 9",
+            "Price": 2100000,
+            "Image": "cake_1.jpg",
+            "Discount": 0,
+            "Quantity": 100,
+            "Category_ID": 1      
+        },
+        {
+            "Product_ID": 10,
+            "ProductName": "Birthday cake 10",
+            "Price": 2100000,
+            "Image": "cake_1.jpg",
+            "Discount": 21000,
+            "Quantity": 1000,
+            "Category_ID": 2      
+        }
+        
+
+    ]
+}
